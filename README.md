@@ -1,0 +1,1 @@
+This is an assignment for the foundations course from The Odin Project
